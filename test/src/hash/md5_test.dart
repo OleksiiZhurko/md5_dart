@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:MD5/src/hash/md5.dart';
+import 'package:MD5/src/hash/md5.dart' as MD5;
 import 'package:test/test.dart';
 
 /// Test MD5 class

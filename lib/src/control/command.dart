@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:MD5/src/hash/md5.dart';
+import 'package:MD5/src/hash/md5.dart' as MD5;
 
 /// Control class
 class Command {
